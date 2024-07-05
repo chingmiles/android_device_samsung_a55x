@@ -1,7 +1,7 @@
 # Android device tree for samsung SM-A5560 (a55x)
 # Clone
 ```bash
-git clone https://github.com/MrFluffyOven/android_device_samsung_a55x.git -b twrp-12.1 device/samsung/a55x
+git clone https://github.com/chingmiles/android_device_samsung_a55x.git -b main device/samsung/a55x
 ```
 # Build
 ```bash
