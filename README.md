@@ -2,7 +2,6 @@
 # Clone
     git clone https://github.com/MrFluffyOven/android_device_samsung_a55x.git -b twrp-12.1 device/samsung/a55x
 
-To build:
 ```bash
 export ALLOW_MISSING_DEPENDENCIES=true
 . build/envsetup.sh
